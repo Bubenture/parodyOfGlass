@@ -1,5 +1,4 @@
 # https://bubenture.github.io/parodyOfGlass
-# <a href=" https://bubenture.github.io/parodyOfGlass" target="_blank">https://bubenture.github.io/parodyOfGlass</a>
 
 ![parodyOfGlass](img/parodyOfGlass.webp)
 
